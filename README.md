@@ -1,16 +1,71 @@
-## Hi there 👋
+# Igor Lima 🚀
 
-<!--
-**igorcl2000/igorcl2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-igor--lima--306b09182-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/igor-lima-306b09182/)
+[![Gmail](https://img.shields.io/badge/Gmail-igorcl2000@gmail.com-D14836?style=flat&logo=gmail)](mailto:igorcl2000@gmail.com)
+[![Location](https://img.shields.io/badge/Santa_Maria-DF-%2300a1ff?style=flat)]()
 
-Here are some ideas to get you started:
+👨💻 **Desenvolvedor | Designer**  
+*Apaixonado por tecnologia, design e soluções criativas!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorcl2000&show_icons=true&theme=radical)](https://github.com/igorcl2000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcl2000&layout=compact&theme=radical)](https://github.com/igorcl2000)
+
+---
+
+## 🛠️ **Habilidades Técnicas**
+
+### Linguagens & Frameworks
+🔹 **Linguagens**:  
+`Java` `Python` `JavaScript` `HTML/CSS` `SQL` *(adicione outras!)*
+
+🔹 **Frameworks**:  
+`Spring Boot` `React` `Node.js` `Bootstrap` `Django` *(adicione outros!)*
+
+### Banco de Dados & Ferramentas
+🔸 **Banco de Dados**:  
+`Oracle` `MySQL` `PostgreSQL` `MongoDB` *(personalize!)*
+
+🔸 **Ferramentas**:  
+`Git` `Docker` `Linux` `AWS` `Figma` *(atualize conforme suas preferências!)*
+
+---
+
+## 🎨 **Design & Multimedia**
+✨ **Motion Design** | 🖌️ **Edição de Vídeo** | 📱 **UI/UX**
+
+---
+
+## 📚 **Formação**
+- **Bacharelado em Ciência da Computação**  
+  *IFTM - Ituiutaba (2020–2025)*
+
+- **Técnico em Tecnologia da Informação**  
+  *IFTM - Campina Verde (2017–2018)*
+
+---
+
+## 💼 **Experiência**
+- **Estagiário em Sustentação de Sistemas**  
+  *Algar Telecom (2022–2024)*  
+  `Linux` `Monitoramento` `Back-end`
+
+- **Bolsista PET - IFTM**  
+  *Projetos de pesquisa e ensino (2021–2024)*  
+  `Tutoria` `Gestão de Projetos`
+
+---
+
+## 📌 **Projetos Destacados**
+- [🔗 Desafio Back-end Java ](https://github.com/igorcl2000/desafio-back-end-Algar)  
+  *Sistema em Java/Spring Boot*
+
+- [🔗 Control PET](https://github.com/igorcl2000/)  
+  *Desenvolvido com React e Node.js*
+
+---
+
+⭐ **"Transformo linhas de código em soluções impactantes!"**

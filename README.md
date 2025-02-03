@@ -20,17 +20,17 @@
 
 ### Linguagens & Frameworks
 🔹 **Linguagens**:  
-`Java` `Python` `JavaScript` `HTML/CSS` `SQL` *(adicione outras!)*
+`Java` `Python` `JavaScript` `HTML/CSS` `SQL`
 
 🔹 **Frameworks**:  
-`Spring Boot` `React` `Node.js` `Bootstrap` `Django` *(adicione outros!)*
+`Spring Boot` `React` `Node.js` `Bootstrap` `Django`
 
 ### Banco de Dados & Ferramentas
 🔸 **Banco de Dados**:  
-`Oracle` `MySQL` `PostgreSQL` `MongoDB` *(personalize!)*
+`Oracle` `MySQL` `PostgreSQL` `MongoDB`
 
 🔸 **Ferramentas**:  
-`Git` `Docker` `Linux` `AWS` `Figma` *(atualize conforme suas preferências!)*
+`Git` `Docker` `Linux` `AWS` `Figma`
 
 ---
 
